@@ -1,0 +1,2 @@
+# 100Days-Day-8-Caesar-Cipher-Part-4
+In this final portion of the challenge, put the function and the user input prompts into a while loop that will only exit if the user inputs that they want to end the program.  This is so the user can keep using the program over and over again until they are content.  I also added a precaution for the event that a user sets a shift number that is way above the scope of the alphabet list.
